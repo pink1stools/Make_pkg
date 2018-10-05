@@ -1,0 +1,16 @@
+c:\users\josh\documents\visual studio 2010\Projects\make pkg\make pkg\bin\Debug\make pkg.exe
+c:\users\josh\documents\visual studio 2010\Projects\make pkg\make pkg\bin\Debug\make pkg.pdb
+c:\users\josh\documents\visual studio 2010\Projects\make pkg\make pkg\obj\x86\Debug\make pkg.exe
+c:\users\josh\documents\visual studio 2010\Projects\make pkg\make pkg\obj\x86\Debug\make pkg.pdb
+C:\Users\Josh\Documents\Visual Studio 2010\Projects\make pkg\make pkg\obj\x86\Debug\make pkg.csprojResolveAssemblyReference.cache
+F:\make pkg\make pkg\bin\Debug\make pkg.exe
+F:\make pkg\make pkg\bin\Debug\make pkg.pdb
+F:\make pkg\make pkg\obj\x86\Debug\make pkg.exe
+F:\make pkg\make pkg\obj\x86\Debug\make pkg.pdb
+F:\make pkg\make pkg\obj\x86\Debug\make pkg.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\josh\make pkg\make pkg\bin\Debug\make pkg.exe
+C:\Users\Home\Desktop\josh\make pkg\make pkg\bin\Debug\make pkg.pdb
+C:\Users\Home\Desktop\josh\make pkg\make pkg\obj\x86\Debug\make pkg.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\josh\make pkg\make pkg\obj\x86\Debug\make pkg.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\josh\make pkg\make pkg\obj\x86\Debug\make pkg.exe
+C:\Users\Home\Desktop\josh\make pkg\make pkg\obj\x86\Debug\make pkg.pdb
