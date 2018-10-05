@@ -2,8 +2,8 @@
 PS3 make_pkg C#
 
  ####   Make PKG  Fixes 
-- [ ] Patch Type 8 NPDRM Selfs
-- [ ] Fix Large File limit
+- [x] Patch Type 8 NPDRM Selfs??
+- [x] Fix Large File limit??
 - [ ] Add Avatar, Exdata' and Theme PKG Support 
 
  ####   PKG Extractor Fixes 
